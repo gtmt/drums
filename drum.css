@@ -59,3 +59,7 @@ button:hover{
     background-image:url("images/snare.png");
     background-size: 115px;
 } 
+.pressed{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.4;
+}
